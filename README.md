@@ -17,5 +17,6 @@
  NOTE: While this plugin is on stable release, do expect incomplete or missing features.
  I am actively working on this plugin to bring it to higher standards.
 
- Got a bug report or feature request? Message me!
- Want to improve on the plugin? This plugin is open source!
+
+- **Got a bug report or feature request?** Message me!
+- **Want to improve on the plugin?** This plugin is open source!
